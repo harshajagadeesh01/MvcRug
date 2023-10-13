@@ -21,3 +21,5 @@ Restarted from scratch and did all the steps again in a different computer and s
 Seeded the database and initialized with default values for the Rug Product's characteristics
 
 Created a github repository named 'MvcRug' to upload / commit all the MvcRug application files to github
+
+Publish the app in Azure deployment
